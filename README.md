@@ -1,8 +1,8 @@
 ==> For Support Related Rapidleech Visit - www.rapidleech.com 
 
-==> Last Update - January,2016 
+==> Last Update - September ,2019 
 
-==> Latest Version - Rev.431 
+==> Latest Version - Rev.432
 
 ==> Active Contributors - 1
 
