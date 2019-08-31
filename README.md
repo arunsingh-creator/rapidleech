@@ -1,4 +1,3 @@
-==> For Support Related Rapidleech Visit - www.rapidleech.com 
 
 ==> Last Update - September ,2019 
 
