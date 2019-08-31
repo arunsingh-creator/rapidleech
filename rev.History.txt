@@ -1,4 +1,4 @@
-Rapidleech PlugMod (by eqbal)
+Rapidleech PlugMod (by Vijay63)
 /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 
 ====================================
@@ -343,3 +343,6 @@ Rev. 2 :
 
 Rev. 1 :
 +www.gigasize.com added.
+
+Rev. 2 :
++Google Drive
