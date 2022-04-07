@@ -18,4 +18,4 @@ For end-users, you may search on our forum for readily available installed scrip
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vijay62/Rapidleech/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush-cracker/Rapidleech/tree/master)
